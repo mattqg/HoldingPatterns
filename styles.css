@@ -3,21 +3,22 @@ h1 {
     left: 30px;
     font-size: 3.6rem;
 	  font-weight: 400;
-	  color: rgba(0, 0, 0, 0.85);
-	  font-family: "Space Mono", Icons;
+    color: rgba(0, 0, 0, 0.85);
+    font-family: 'Indie Flower', cursive;
     letter-spacing: 0.04em;
 	  font-style: normal;
 	  line-height: 1.4;
 }
   
  p {
+  
     position: relative;
     left: 30px;
     width: 100%;
     font-size: 2rem;
 	  font-weight: 400;
 	  color: rgba(0, 0, 0, 0.85);
-	  font-family: "Space Mono", Icons;
+	  font-family: 'Indie Flower', cursive;
     letter-spacing: 0.04em;
 	  font-style: normal;
 	  line-height: 1.4;
