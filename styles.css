@@ -27,6 +27,22 @@ h2{
   letter-spacing: 0.04em;
   font-style: normal;
   line-height: 1.4;
+  margin-bottom: 0;
+}
+
+h3{
+  position: relative;
+  left: 30px;
+  width: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.85);
+  font-family: 'Indie Flower', cursive;
+  letter-spacing: 0.04em;
+  font-style: normal;
+  line-height: 1.4;
+  margin-top: 0;
+  margin-bottom: 10;
 }
 
 p.overview {
@@ -45,6 +61,7 @@ p.overview {
 
  p.desc {
   position: relative;
+  margin: 0;
   left: 30px;
   width: 95%;
   font-size: 1.5rem;
@@ -55,6 +72,7 @@ p.overview {
   font-style: normal;
   line-height: 1.4;
   padding-bottom: 20px;
+ 
  }
 
 a {
