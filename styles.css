@@ -10,7 +10,7 @@ h1 {
   font-size: 3.6rem;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.85);
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Space Mono', monospace;
   letter-spacing: 0.04em;
   font-style: normal;
   line-height: 1.4;
@@ -23,7 +23,7 @@ h2{
   font-size: 2.2rem;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.85);
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Space Mono', monospace;
   letter-spacing: 0.04em;
   font-style: normal;
   line-height: 1.4;
@@ -37,9 +37,9 @@ h3{
   font-size: 1.8rem;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.85);
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Space Mono', monospace;
+  font-style: italic;
   letter-spacing: 0.04em;
-  font-style: normal;
   line-height: 1.4;
   margin-top: 0;
   margin-bottom: 10;
@@ -49,14 +49,14 @@ p.overview {
   position: relative;
   left: 30px;
   width: 95%;
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.85);
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Space Mono', monospace;
   letter-spacing: 0.04em;
   font-style: normal;
   line-height: 1.4;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
  }
 
  p.desc {
@@ -67,12 +67,11 @@ p.overview {
   font-size: 1.5rem;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.85);
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Space Mono', monospace;
   letter-spacing: 0.04em;
   font-style: normal;
   line-height: 1.4;
-  padding-bottom: 20px;
- 
+  padding-bottom: 30px;
  }
 
 a {
@@ -81,8 +80,22 @@ a {
   font-size: 1.5rem;
   font-weight: 400;
   color:#2448c9;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Space Mono', monospace;
   letter-spacing: 0.04em;
   font-style: normal;
   line-height: 1.4;
+}
+
+i.material-icons{
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+  position: relative;
 }
